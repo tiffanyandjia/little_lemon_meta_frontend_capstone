@@ -30,3 +30,4 @@ Final capstone project for Meta Front-end developer program on Coursera, which c
 
 ### Author
 TIng Ting Lin
+[README.md](https://github.com/tiffanyandjia/little_lemon_meta_frontend_capstone/files/12155678/README.md)
